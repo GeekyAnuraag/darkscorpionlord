@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @darkscorpionlord
-- 👀 I’m interested in AWS, python, database management and data automation
+- 👀 I’m interested in AWS, Data Science python, database management and data automation
 - 🌱 I’m currently learning AWS and Python
 - 💞️ I’m looking to collaborate on technologies based on server development and database
 - 📫 How to reach me mail me @  mr.anuragblues@gmail.com
