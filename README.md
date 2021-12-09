@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @darkscorpionlord
+- 👋 Hi, I’m @GeekyAnurag
 - 👀 I’m interested in AWS, Data Science python, database management and data automation
 - 🌱 I’m currently learning AWS and Python
 - 💞️ I’m looking to collaborate on technologies based on server development and database
